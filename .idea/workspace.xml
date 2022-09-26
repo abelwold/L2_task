@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26e8c825-eb84-4930-94ba-b6ee3f3588c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2F8I2qQkLkiRMppRmQnEJbotiud" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DemoQ1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="TestNG.TestWelcomePage">
+    <configuration name="TestWelcomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="L2_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestWelcomePage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWelcomePage.testFirstCard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="L2_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestWelcomePage" />
+      <option name="METHOD_NAME" value="testFirstCard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWelcomePage.testNavMain (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="L2_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestWelcomePage" />
+      <option name="METHOD_NAME" value="testNavMain" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWelcomePage.testNavMain (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="L2_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestWelcomePage" />
+      <option name="METHOD_NAME" value="testNavMain" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWelcomePage.testNavMain" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="L2_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TestWelcomePage" />
+      <option name="METHOD_NAME" value="testNavMain" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestWelcomePage" />
+        <item itemvalue="TestNG.TestWelcomePage.testNavMain" />
+        <item itemvalue="TestNG.TestWelcomePage.testFirstCard" />
+        <item itemvalue="TestNG.TestWelcomePage.testNavMain (2)" />
+        <item itemvalue="TestNG.TestWelcomePage.testNavMain (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26e8c825-eb84-4930-94ba-b6ee3f3588c9" name="Default Changelist" comment="" />
+      <created>1663867079964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663867079964</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="164" key="FileChooserDialogImpl" timestamp="1663931353540">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="164" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1663931353540" />
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom" timestamp="1664215733959">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1664215733959" />
+    <state width="1493" height="245" key="GridCell.Tab.0.center" timestamp="1664215733959">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1664215733959" />
+    <state width="1493" height="245" key="GridCell.Tab.0.left" timestamp="1664215733959">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1664215733959" />
+    <state width="1493" height="245" key="GridCell.Tab.0.right" timestamp="1664215733959">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1664215733959" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1664195554156">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1664195554156" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1664195554155">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1664195554155" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1664195554155">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1664195554155" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1664195554155">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1664195554155" />
+    <state x="299" y="64" key="Maven.ArtifactSearchDialog" timestamp="1663868108341">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="299" y="64" key="Maven.ArtifactSearchDialog/0.0.1536.816@0.0.1536.816" timestamp="1663868108341" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1663931520897">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1663931520897" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1664208987128">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.816@0.0.1536.816" timestamp="1664208987128" />
+    <state x="465" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1664195538272">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="465" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1664195538272" />
+    <state x="209" y="111" key="new project wizard" timestamp="1663869657963">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="209" y="111" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1663869657963" />
+  </component>
+</project>
